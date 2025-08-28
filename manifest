@@ -1,0 +1,14 @@
+{
+  "laws": [
+    {
+      "slug": "cdc-1990",
+      "title": "Código de Defesa do Consumidor",
+      "category": "Direito do Consumidor",
+      "subcategory": "CDC",
+      "url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/data/cdc.json",
+      "checksum": "sha256:abc123...",             // opcional mas recomendado
+      "version": "2025-08-01",                   // opcional
+      "lastModified": "2025-08-01T10:00:00Z"     // opcional
+    }
+  ]
+}
