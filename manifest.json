@@ -6,9 +6,9 @@
       "category": "Direito do Consumidor",
       "subcategory": "CDC",
       "url": "https://raw.githubusercontent.com/oruanz/vaderepo/refs/heads/main/cdc.json",
-      "checksum": "2d711642b726b04401627ca9fbac32f5da7b",             // opcional mas recomendado
-      "version": "2025-08-01",                   // opcional
-      "lastModified": "2025-08-01T10:00:00Z"     // opcional
+      "checksum": "2d711642b726b04401627ca9fbac32f5da7b",           // opcional mas recomendado
+      "version": "1"                 // opcional
+      "lastModified": "2025-08-28T00:00:00Z",     // opcional
     }
   ]
 }
