@@ -1,5 +1,5 @@
 {
-  "version": "2",
+  "version": "1",
   "laws": [
     {
       "slug": "cdc-1990",
@@ -7,7 +7,9 @@
       "category": "Direito do Consumidor",
       "subcategory": "CDC",
       "url": "https://raw.githubusercontent.com/oruanz/vaderepo/main/cdc.json",
-      "lastModified": "2025-08-28T00:00:00Z"
+      "checksum": "ff861555fab264a304759c11ff671daeb59431af2f39f5fd5276028f9b257a00",
+      "version": "2",
+      "lastModified": "2025-08-28T12:00:00Z"
     }
   ]
 }
