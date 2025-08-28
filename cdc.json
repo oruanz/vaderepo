@@ -1,4 +1,4 @@
-{
+mudando{
   "slug": "cdc-1990",
   "title": "Código de Defesa do Consumidor",
   "number": "Lei 8.078/1990",
@@ -9,7 +9,7 @@
       "id": "art-1",
       "number": "Art. 1º",
       "heading": "Dos Direitos",
-      "text": "O presente código ...",
+      "text": "O presente código esta mudando ...",
       "order": 1,
       "revoked": false
     }
