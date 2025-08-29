@@ -13,12 +13,20 @@
       "order": 1,
       "revoked": false
     },
-        {
+    {
       "id": "art-2",
       "number": "Art. 2º",
       "heading": "Dos Direitos",
       "text": "Não pegarás o açai do outro.",
       "order": 2,
+      "revoked": false
+    },
+        {
+      "id": "art-3",
+      "number": "Art. 3º",
+      "heading": "Dos Direitos",
+      "text": "Não pegarás.",
+      "order": 3,
       "revoked": false
     }
   ]
