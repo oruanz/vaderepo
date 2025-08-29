@@ -21,13 +21,5 @@
       "order": 2,
       "revoked": false
     },
-        {
-      "id": "art-3",
-      "number": "Art. 3º",
-      "heading": "Dos Direitos",
-      "text": "Não pegarás.",
-      "order": 3,
-      "revoked": false
-    }
   ]
 }
